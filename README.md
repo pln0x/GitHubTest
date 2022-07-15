@@ -8,3 +8,5 @@
 * git checkout master переход к мастер комиту
 * git clone <link> - клонируем репозиторий
 * 
+
+v2

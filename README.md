@@ -1,4 +1,4 @@
-## Справка по Git
+# Справка по Git
 
 * git init - Инициализация репозитория
 * git add <file_name> - добавление файла в git
@@ -7,6 +7,6 @@
 * git  checkout 4digs - откат к нужной ветке
 * git checkout master переход к мастер комиту
 * git clone <link> - клонируем репозиторий
-* 
 
-v2
+~ v2 ~
+
